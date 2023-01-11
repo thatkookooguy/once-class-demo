@@ -26,7 +26,7 @@
     "@nestjs/platform-express": "^6.7.2",
     "@types/mongodb-memory-server": "^2.3.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "mongodb-memory-server": "^6.2.1",
     "mongoose": "^5.8.4",
     "reflect-metadata": "^0.1.13",
